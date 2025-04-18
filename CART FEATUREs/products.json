@@ -1,0 +1,52 @@
+
+
+[
+    {
+        "id":1,
+        "name": "BUDWISER BEER",
+        "price":3,
+        "image":"https://assets.gqindia.com/photos/5d413bcd3519ce0008e65048/master/pass/Why%20Budweiser,%20Hoegaarden%20and%20Stella%20Artois%20beers%20have%20been%20banned%20in%20Delhi.jpg"
+    },
+    {
+        "id":2,
+        "name": "BROCODE STRONG BEER",
+        "price":2.5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3oK8rr_Lhrx71tTgRyxa8l1v6a1_pEEtsg&s"
+    },
+    {
+        "id":3,
+        "name":"CARLSBERG BEER",
+        "price":1,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLGI6CdGoKRkeM3AKmiWoijjaiXret-dBtdA&s"
+    },
+    {
+        "id":4,
+        "name":"TUBORG BEER",
+        "price":2,
+        "image":"https://mansionz.in/cdn/shop/files/TUBORGSTRONGBEER.jpg?v=1715692447"
+    },
+    {
+        "id":5,
+        "name":"HUNTER",
+        "price":2.1,
+        "image":"https://images.untp.beer/crop?width=640&height=640&stripmeta=true&url=https://untappd.s3.amazonaws.com/photos/2024_08_20/3b25f5cc6ed3b191170bcdd0836fa721_c_1410450151_raw.jpg"
+    },
+    {
+        "id":6,
+        "name":"HAVERDS 5000",
+        "price":2.3,
+        "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/740bf180782383.5cebad4e950e2.jpg"
+    },
+    {
+        "id":7,
+        "name":"BEE YOUNG BEER",
+        "price":2.7,
+        "image":"https://madhushalagroup.com/wp-content/uploads/2022/10/Bee-Young-Beer-2.png"
+    },
+    {
+        "id":8,
+        "name":"GODFATHER STRONG BEER",
+        "price":1.9,
+        "image":"https://english.cdn.zeenews.com/sites/default/files/2016/07/01/504963-godfather-beer.jpg?im=Resize=(1200,900)"
+    }
+]
